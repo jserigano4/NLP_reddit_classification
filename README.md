@@ -21,13 +21,13 @@ Before we can classify these posts, some data cleaning and preprocessing are req
 
 Preliminary analysis shows that our subreddit posts are fairly similar to one another. The average word count is 19 words per title for both subreddits.
 
-# ![](https://git.generalassemb.ly/jserigano4/project-3/blob/master/figures/word_count.png)
+# ![](https://github.com/jserigano4/NLP_reddit_classification/blob/main/figures/word_count.png)
 
 Additionally, these subreddits share a lot of the most common bigrams as well.
 
-# ![](https://git.generalassemb.ly/jserigano4/project-3/blob/master/figures/LifeProTips_cleaned.png)
+# ![](https://github.com/jserigano4/NLP_reddit_classification/blob/main/figures/LifeProTips_cleaned.png)
 
-# ![](https://git.generalassemb.ly/jserigano4/project-3/blob/master/figures/ShittyLifeProTips_cleaned.png)
+# ![](https://github.com/jserigano4/NLP_reddit_classification/blob/main/figures/ShittyLifeProTips_cleaned.png)
 
 Multiple classification models were then developed in order to determine which variation of vectorizer and classifier produced the most accurate model predictions.
 
